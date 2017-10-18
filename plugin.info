@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/OokTech/ChartJS",
+	"description": "A plugin to add ChartJS to TiddlyWiki",
+	"author": "inmysocks",
+	"version": "0.0.1",
+	"core-version": ">=5.1.6",
+	"source": "",
+	"plugin-type": "plugin"
+}
